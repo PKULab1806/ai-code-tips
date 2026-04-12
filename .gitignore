@@ -1,0 +1,12 @@
+# Local Codex state
+.codex
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
