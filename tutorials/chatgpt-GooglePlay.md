@@ -21,7 +21,7 @@
 开始前建议先准备好以下内容：
 
 - 能够注册google账户的手机号（可国内手机号）或已经注册的新加坡区/日区google账号
-- 手机能够安装 Google Play（又名“Play商店”） 和 ChatGPT app
+- （安卓）手机能够安装 Google Play（又名“Play商店”） 和 ChatGPT app
 - 能用新加坡/日本ip的梯子
 - 中国银联储蓄卡或国内mastercard、visa卡（备注：新加坡区订阅价格偏贵，但允许用银联卡支付；日区价格便宜，但一般只能用mastercard/visa卡，详细见**费用说明**）
 
