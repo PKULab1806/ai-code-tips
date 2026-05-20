@@ -1,4 +1,4 @@
-# ChatGPT Plus/Pro充值方法参考：通过日区/新加坡区 Google Play 充值
+# ChatGPT Plus/Pro充值方法参考：通过新加坡区/日区 Google Play 充值
 
 ## 基本信息
 
